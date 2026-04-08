@@ -1,14 +1,14 @@
 :root {
   /* Background color */
-  --color-bg: #cfceca;
+  --color-bg: #fceb94;
 
   /* Header background color */
-  --color-head-bg: #625e5c;
+  --color-head-bg: #ff4b00;
 
   /* Logotype */
-  --color-logotype-bg: #2a2828;
-  --color-text-logotype: #c1bfb8;
-  --font-logotype-size: 1rem;
+  --color-logotype-bg: #000;
+  --color-text-logotype: #fffae2;
+  --font-logotype-size: 2rem;
 
   /* Global menu */
   --color-menu-bg: #5a5b5e;
@@ -50,12 +50,12 @@
   --color-cta-card-bg-inverted: #c0bfb9;
 
   /* Fonts & font weights*/
-  --font-family-sans: ui-sans-serif;
+  --font-family-sans: "rubik", ui-sans-serif;
   --font-weight-bold: 700;
   --font-weight-medium: 500;
   --font-weight-regular: 300;
   --font-weight-light: 200;
 
   /* Infographics background colors*/
-  --color-info-bg: #676161;
+  --color-info-bg: #fffae2;
 }
